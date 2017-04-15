@@ -1,4 +1,0 @@
-[{"text":"(<script>) tag is where we put the javascript.","cloze":"<script>"},
-{"text":"(<body>)is the correct place to insert a JavaScript ","cloze":"<body>"},
-{"text":"var colors = ["red", "green", "blue"] is an example of an (array)","cloze":"array"},
-{"text":"(Math.round) rounds a number to the nearest integer","cloze":"Math.round"},]

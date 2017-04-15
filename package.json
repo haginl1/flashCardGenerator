@@ -1,0 +1,23 @@
+{
+  "name": "flashcardgen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "basic.js",
+  "dependencies": {
+    "inquirer": "^3.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haginl1/flashCardGenerator.git"
+  },
+  "author": "lisa hagin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haginl1/flashCardGenerator/issues"
+  },
+  "homepage": "https://github.com/haginl1/flashCardGenerator#readme"
+}
